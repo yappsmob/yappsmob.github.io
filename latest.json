@@ -2,7 +2,7 @@
 	{
 	  "packageName": "com.yapps.izmirimkartbakiye",
 	  "version": 16,
-	  "forced": true
+	  "forced": false
 	},
 	{
 	  "packageName": "com.yapps.izotobus",
