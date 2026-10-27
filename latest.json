@@ -1,8 +1,8 @@
 [
 	{
 	  "packageName": "com.yapps.izmirimkartbakiye",
-	  "version": 43,
-	  "forced": true
+	  "version": 100,
+	  "forced": false
 	},
 	{
 	  "packageName": "com.yapps.izotobus",
